@@ -16,7 +16,7 @@ theme_pubclean()
 ```
 
 
-##putting delGd into 10 bins
+##putting delGd into 10 bins for kinetic modeling
 #mineral soil
 ```{R energy}
 
